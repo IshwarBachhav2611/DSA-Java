@@ -1,2 +1,3 @@
-# Hacker-Rank-Problems-Java
-Java solutions for the HackerRank 3 Months Preparation Kit, covering problem-solving, data structures, algorithms, and interview preparation challenges.
+# Java DSA
+
+This repository contains my Java implementations of various **Data Structures and Algorithms (DSA)** concepts. It includes programs covering topics such as arrays, strings, searching, sorting, linked lists, stacks, queues, trees, graphs, recursion, dynamic programming, and more. The purpose of this repository is to strengthen problem-solving skills, understand core DSA concepts, and practice coding for technical interviews, competitive programming, and academic learning. The code is written in a simple, well-structured, and beginner-friendly manner, making it easy to understand and use as a learning resource.
